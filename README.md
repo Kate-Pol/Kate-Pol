@@ -3,6 +3,7 @@
 ### | Data and Development | Python / SQL | In past - geotech Engineer |  
 
 📫 As someone who is always passionate for learning more about tech and life...
+
 🏢 Working 🌐 Volunteering 📑 Study 💻 Practice ➡ Wake up ➡ Repeat 
 
 Web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best results. Learning data analysis.  
