@@ -2,7 +2,7 @@
 
 ### | Data and Development | Python / SQL | In past - geotech Engineer |  
 
-📫 As someone who is always passionate for learning more about tech and life...
+📫 As someone who is always passionate for learning more about tech and life.
 
 🏢 Working 🌐 Volunteering 📑 Study 💻 Practice ➡ Wake up ➡ Repeat 
 
