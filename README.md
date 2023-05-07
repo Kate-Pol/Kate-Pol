@@ -24,6 +24,7 @@ Web development using multiple tools, frameworks and libraries both in frontend 
 </div>
 
 
+
 📝 Feel free to contact me. I am always here ... 
 
 [![Linkedin Badge](https://img.shields.io/badge/-KaterynaPolishchuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kateryna-polishchuk-aa63aa77/)
