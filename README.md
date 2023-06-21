@@ -10,7 +10,6 @@ Web development using multiple tools, frameworks and libraries both in frontend 
 
 Our world changing each day, so trying to be on track with the news in tech world, construction, healthy lifestyle, politic etc. About my personality – easy going and have nice sense of humor. Throughout my life and career improved well in technical and soft skills. I like fixing and creating things, can use different tools for this. 
 
-Enjoing life... Each person is genius, just need to choose the correct life path...
 
 💻 Languages and Tools: 🛠️
 
@@ -34,3 +33,6 @@ Enjoing life... Each person is genius, just need to choose the correct life path
 📝 Feel free to contact me. I am always here ... 
 
 [![Linkedin Badge](https://img.shields.io/badge/-KaterynaPolishchuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kateryna-polishchuk-aa63aa77/)
+
+
+Each person is genius, just need to choose the correct life path...
