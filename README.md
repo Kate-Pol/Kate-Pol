@@ -1,4 +1,4 @@
-## Hi there 👋, Hi there, my name Kate! Welcome to my page 💙💛
+## Hi there 👋 My name Kate! Welcome to my page 💙💛
 
 ### | Data and Development | Python / SQL | In past - geotech Engineer |  
 
