@@ -6,7 +6,7 @@
 
 🏢 Working 🌐 Volunteering 📑 Study 💻 Practice ➡ Wake up ➡ Repeat 
 
-Web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best results. Learning data analysis.  
+Web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best results. Learning data analysis. Improving knowledge in Python and SQL. Constantly practicing problem on Leetcode site, working on personal small projects, and volunteering.   
 
 Our world changing each day, so trying to be on track with the news in tech world, construction, healthy lifestyle, politic etc. About my personality – easy going and have nice sense of humor. Throughout my life and career improved well in technical and soft skills. I like fixing and creating things, can use different tools for this. 
 
