@@ -8,7 +8,7 @@ Web development using multiple tools, frameworks and libraries both in frontend 
 
 Our world changing each day, so trying to be on track with the news in tech world, construction, healthy lifestyle, politic etc. I like fixing and creating things, can use different tools for this. 
 
-🔭 I’m currently working as a volunteer and constantly building my skills. That means...
+🔭 I’m currently working as a freelance and volunteer, constantly building my skills. That means...
 
  - 👯 I'm always open for freelance gigs or contract based opportunities
  - 💬 I'm looking to collaborate and create some cool content that we can share with the community
@@ -30,6 +30,7 @@ Our world changing each day, so trying to be on track with the news in tech worl
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="20" height="20"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="20" height="20"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="20" height="20"/>
   
 </div>
 
